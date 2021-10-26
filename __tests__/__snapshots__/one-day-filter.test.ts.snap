@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`one-day-filter 1`] = `100.00000000000007`;
+
+exports[`one-day-filter 2`] = `2400.000000000005`;
+
+exports[`one-day-filter 3`] = `108.3333333333334`;
+
+exports[`one-day-filter 4`] = `2408.3333333333385`;
+
+exports[`one-day-filter 5`] = `600`;
+
+exports[`one-day-filter 6`] = `2900.000000000014`;
